@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    
 }
 
 body{
@@ -59,6 +60,7 @@ body{
     margin-left: 100px;
     width: 55%;
 }
+
 
 .left button{
     padding: 8px 20px;
@@ -326,6 +328,9 @@ body{
     padding-bottom: 10px;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
+
+
+
 
 /***************** form designing ***********************/
 
