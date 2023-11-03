@@ -1,2 +1,2 @@
-# front-end
+# Front-end
 frontend
